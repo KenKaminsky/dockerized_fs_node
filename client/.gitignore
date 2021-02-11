@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules
+
+# ignore vs settings
+.vscode
+
+# Coverage reports
+coverage
+
+# ignore typescript complier out folder
+dist
+
+# ignore yarn.lock
+yarn.lock
+yarn-error.log
